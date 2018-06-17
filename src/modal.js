@@ -10,7 +10,7 @@ history.pushState("", document.title, window.location.pathname + window.location
 var container;
 var modal = {
     name:"default",
-    text:"Uhm.. Here's the default message. WHAT DO YOU EXPECT?!</br></br><b>Docs</b> <a href='https://modal.js.org' target='_blank'>https://modal.js.org</a>",
+    text:"Uhm.. Here's the default message. WHAT DO YOU EXPECT?!</br></br><b>Docs</b> <a href='https://github.com/JacobWennebro/modal.js' target='_blank'>https://github.com/JacobWennebro/modal.js</a>",
     title:"Modal.JS Default Modal",
     bgColor:"#FFF",
     headerColor:"#4DE1FF",
@@ -159,7 +159,7 @@ var modal = {
 
 function mreset() {
     modal.name = "default";
-    modal.text = "Uhm.. Here's the default message. WHAT DO YOU EXPECT?!</br></br><b>Docs</b> <a href='https://modal.js.org' target='_blank'>https://modal.js.org</a>";
+    modal.text = "Uhm.. Here's the default message. WHAT DO YOU EXPECT?!</br></br><b>Docs</b> <a href='https://github.com/JacobWennebro/modal.js' target='_blank'>https://github.com/JacobWennebro/modal.js</a>";
     modal.title = "Modal.JS Default Modal";
     modal.bgColor = "#FFF";
     modal.headerColor = "#4DE1FF";
