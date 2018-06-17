@@ -5,7 +5,7 @@ A web library for making easy and powerful modal messages
 
 modal.*(Placeholder|Styling|Config)*
 
-###### Placeholders
+##### Placeholders
 **.name** - Defines the name of your modal
 
 **.title** - Set the title of your modal
@@ -14,7 +14,7 @@ modal.*(Placeholder|Styling|Config)*
 
 **.embed** - OPTIONAL embed own HTML
 
-###### Styling
+##### Styling
 **.headerColor** - Color of header (Default #4DE1FF)
 
 **.bgColor** - Color of modal background (Default #FFF)
@@ -31,7 +31,7 @@ modal.*(Placeholder|Styling|Config)*
 
 **.font** - Select font for your modal via Google Fonts (Default https://fonts.googleapis.com/css?family=Roboto)
 
-###### Config
+##### Config
 **.conf.exitBtn** - Make exit button (Default true)
 
 **.conf.hash** - Create hash on modal apply (Default true)
@@ -46,7 +46,7 @@ modal.*(Placeholder|Styling|Config)*
 
 **.conf.centerText** - Make text centered (Default false)
 
-###### Functions
+##### Functions
 **.apply()** - Make modal
 
 **.destroy()** - Close modal
