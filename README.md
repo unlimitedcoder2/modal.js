@@ -3,7 +3,7 @@ A web library for making easy and powerful modal messages
 
 ## Documentation
 
-modal.*(Placeholder|Styling|Config)*
+modal.*(Placeholder|Styling|Config|Function())*
 
 ##### Placeholders
 **.name** - Defines the name of your modal
